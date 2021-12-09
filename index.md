@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Amy and Steve's wedding
+# Amy and Steve's Wedding
 
 # Save the date!
 
