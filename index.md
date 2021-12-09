@@ -15,4 +15,3 @@ layout: default
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwfX1usj0&#x2F;view?embed">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwfX1usj0&#x2F;view?utm_content=DAEwfX1usj0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Save the date</a> by Amy Bell
