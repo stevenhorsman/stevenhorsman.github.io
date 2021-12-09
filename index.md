@@ -2,12 +2,6 @@
 layout: default
 ---
 
-# Amy and Steve's Wedding
-
-# Save the date!
-
-# 23rd July 2022
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 57.1429%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
