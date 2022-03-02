@@ -1,1 +1,4 @@
 .history
+.jekyll-cache
+_site
+temp

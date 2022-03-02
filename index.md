@@ -2,9 +2,6 @@
 layout: default
 ---
 
-### Information
-
-
 #### Parking
 
 Park at church maybe?
