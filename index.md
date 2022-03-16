@@ -1,25 +1,60 @@
 ---
 layout: default
+title: {{ site.title }}
+description: {{ site.description }}
 ---
 
-#### Parking
+### We'll add more information to this page as we get closer to the day, so be sure to check back!
 
-Park at church maybe?
+#### When?
 
-#### Timings
+Saturday 23rd July 2022
 
-Ceremony at 13:45, arrive from 13:15
+Ceremony starts: 1:45pm  
+Church open for guests: 1:15pm
+
+We know that it can be nice to wear our comfy clothes for long journeys, so if you are travelling for the wedding we have rooms and space available at the church if you would like to get changed and keep your bags out of the way during the ceremony. 
+
+#### Where?
+
+Winchester Vineyard Church  
+Unit A, Bar End Industrial Estate  
+Bar End Road  
+SO23 9NR
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.01409816567!2d-1.3088181840792361!3d51.05282747956298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48741279301ad1dd%3A0xbf5c56d3959f4861!2sWinchester%20Vineyard!5e0!3m2!1sen!2suk!4v1647444534639!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+Parking is available at the church, with a Park and Ride less than 5 minutes walk away if we run out of space. This might also suit those of you who would like to grab the bus into the beautiful city of Winchester to check out some sights or grab some food. Parking is £3.50 for the day and includes up to 6 passengers. 
+
+East Winchester Park & Ride (St Catherine’s)  
+Garnier Road, Winchester, SO23 9NP
+
+
+#### RSVP
+
+Let us know if you can join us by completing the RSVP form by 1st June:
+[insert link here]
+
+#### Plan for the day
+
+1:15-1:45pm Arrival of guests  
+1:45-2:45pm Wedding ceremony  
+Cutting of the cake followed by tea & cakes and photographs  
+Dinner  
+Reception - including cheese boards  
+First dance?  
+10pm Bride & Groom leave  
+
+We’re so grateful for your understanding and are sorry that we can’t invite all of you to stay for dinner, but we are happy to help with recommendations for great places to eat in Winchester, just get in touch to find out more!
+
+A variety of drinks will be available at the reception, but with limited alcohol - so once it’s gone, it’s gone! You are more than welcome to bring your own drinks if you have any favourites you prefer.
+
+#### Gifts
+
+What matters most is that you are able to join us on our big day to celebrate - we are so thankful that you’re taking the time to be with us! However, we value that some of you would like to honour and support us with a gift.
+
+We already have many of the things we need, but if you would like to help us fill in the gaps you can check out our list here [insert gift list link]. 
 
 #### Hotels
 
 Premier Inn, Travel lodge etc
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu tincidunt nunc, a rutrum purus. Nam iaculis est et lobortis ullamcorper. Proin id velit semper, auctor metus nec, euismod elit. Aenean pharetra egestas dolor vel malesuada. Quisque a nisl dictum dui luctus pellentesque. Nunc quis orci nec felis finibus viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean eget dolor dignissim, semper odio at, vulputate erat.
-
-Sed posuere nisi urna, ac euismod est gravida nec. Maecenas nulla orci, fringilla sed varius et, ornare in erat. Cras in porttitor orci. Aenean quis urna congue, mattis justo a, viverra augue. Vestibulum sit amet quam eu magna dapibus lobortis egestas ac leo. In sem mauris, elementum et quam et, sollicitudin ultricies dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eleifend, ex in lacinia semper, nisi leo laoreet nibh, ut ultricies justo nisl eget diam. Suspendisse scelerisque ex vel velit auctor egestas. Curabitur dignissim nulla ante, pharetra malesuada massa posuere eu. In hac habitasse platea dictumst. Donec tristique, leo non eleifend bibendum, augue risus finibus quam, eu egestas eros quam ac ipsum. Cras in euismod arcu, sed feugiat elit.
-
-Vestibulum felis quam, egestas nec pharetra nec, imperdiet nec velit. Proin blandit nibh neque, eget tempus libero convallis ut. Praesent eros sem, tempus efficitur ipsum vitae, posuere vehicula tortor. Vivamus euismod interdum magna, ut sodales risus maximus vitae. Nam et eros velit. Phasellus id erat nec lectus rhoncus vestibulum. Cras a sodales nibh, eu vehicula lacus. Cras facilisis tortor eu quam viverra, vitae convallis ante rhoncus. Praesent ut consequat quam. Aenean efficitur quis urna at sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris lectus erat, faucibus ac justo auctor, porta luctus ipsum.
-
-In eu dignissim purus, id imperdiet turpis. Suspendisse non rutrum lectus, at vestibulum enim. Nam dictum, est tincidunt sodales eleifend, sapien ex luctus mi, a tincidunt mi felis et turpis. Curabitur sit amet placerat libero. Phasellus quis metus nulla. Integer scelerisque tempus mi in eleifend. Duis tempus, diam eget ultrices aliquet, est leo semper est, nec rhoncus velit metus sed risus. Quisque non ullamcorper arcu. Fusce est est, maximus ac ante in, commodo porttitor magna. In consequat leo eu pretium aliquam. Suspendisse a nulla eget erat vulputate malesuada. Mauris lobortis hendrerit mauris vel porta.
-
-Sed nisi dolor, venenatis et venenatis at, dictum ut magna. Morbi ut odio felis. Aenean in orci in ligula suscipit lobortis. Maecenas viverra neque et fringilla luctus. Duis fermentum porttitor porta. Cras sit amet aliquet mauris. Vestibulum elementum mattis aliquam. Maecenas nec augue vel tortor interdum ultricies nec in magna. Sed vulputate nisl venenatis velit vulputate condimentum. Vivamus tincidunt est eget dui malesuada fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam iaculis ante a mi lacinia, et condimentum felis vestibulum. Donec ac varius neque. Integer non odio feugiat, scelerisque dolor id, sagittis dui. Duis pulvinar quam nunc, at venenatis nulla blandit et. Phasellus pulvinar dictum dolor vel aliquam.
