@@ -6,7 +6,7 @@ layout: default
 
 ### RSVP
 
-Let us know if you can join us by completing the [RSVP form](https://forms.gle/699EiVsom9t18uDv8) by 1st June.
+Let us know if you can join us by completing the [RSVP form](https://forms.gle/rfBhsu5ASifqZfRj7) by 1st June.
 ### When?
 
 Saturday 23rd July 2022
