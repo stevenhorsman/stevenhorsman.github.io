@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Amy and Steve's wedding site
-description: Find information about our big day!
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Steve and Amy's wedding
+description: Find out about our big day!
 
 theme: jekyll-theme-cayman
