@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<h2><center>We'll add more information to this page as we get closer to the day, so be sure to check back!</center></h2>
+<h2><center>We are so excited to celebrate with you very soon!</center></h2>
 
-### RSVP
-
-Let us know if you can join us by completing the [RSVP form](https://forms.gle/rfBhsu5ASifqZfRj7) by 1st June.
 ### When?
 
 Saturday 23rd July 2022
@@ -32,6 +29,15 @@ Bar End Road
 Winchester  
 SO23 8RA  
 
+### Gifts
+
+What matters most is that you are able to join us on our big day to celebrate - we are so thankful that you’re taking the time to be with us! However, we value that some of you would like to honour and support us with a gift.
+
+We already have many of the things we need, but if you would like to help us fill in the gaps you can check out our list.
+We have put this together ourselves using Google Sheets. Instructions can be found at the top of the list. In order to help us all see what has already been bought you will need to edit the list - to edit on a tablet or mobile device you will need the Google sheets app. If you have any questions or issues let us know. Thanks!
+
+[Google sheets gift list](https://docs.google.com/spreadsheets/d/1Gyazzi4gPqdyJKJPQxP_IKwodf4zlHC8gTctoIn8T-g/edit?usp=sharing)
+
 ### Plan for the day
 
 1:15 - 1:45pm - Arrival of guests  
@@ -45,11 +51,9 @@ We’re so grateful for your understanding and are sorry that we can’t invite 
 
 A variety of drinks will be available at the reception, but with limited alcohol - so once it’s gone, it’s gone! You are more than welcome to bring your own.
 
-### Gifts
+### RSVP
 
-What matters most is that you are able to join us on our big day to celebrate - we are so thankful that you’re taking the time to be with us! However, we value that some of you would like to honour and support us with a gift.
-
-We already have many of the things we need, but if you would like to help us fill in the gaps you can check out our list, which we'll share closer to the big day.
+Let us know if you can join us by completing the [RSVP form](https://forms.gle/rfBhsu5ASifqZfRj7) by 1st June.
 
 <!-- #### Hotels
 
