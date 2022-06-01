@@ -33,7 +33,7 @@ SO23 8RA
 
 What matters most is that you are able to join us on our big day to celebrate - we are so thankful that you’re taking the time to be with us! However, we value that some of you would like to honour and support us with a gift.
 
-We already have many of the things we need, but if you would like to help us fill in the gaps you can check out our list.
+We already have many of the things we need, but if you would like to help us fill in the gaps you can check out [our list](https://docs.google.com/spreadsheets/d/1Gyazzi4gPqdyJKJPQxP_IKwodf4zlHC8gTctoIn8T-g/edit?usp=sharing).
 We have put this together ourselves using Google Sheets. Instructions can be found at the top of the list. In order to help us all see what has already been bought you will need to edit the list - to edit on a tablet or mobile device you will need the Google sheets app. If you have any questions or issues let us know. Thanks!
 
 [Google sheets gift list](https://docs.google.com/spreadsheets/d/1Gyazzi4gPqdyJKJPQxP_IKwodf4zlHC8gTctoIn8T-g/edit?usp=sharing)
