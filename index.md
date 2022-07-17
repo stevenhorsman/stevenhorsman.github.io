@@ -42,11 +42,12 @@ We have put this together ourselves using Google Sheets. Instructions can be fou
 
 1:15 - 1:45pm - Arrival of guests  
 1:45 - 2:45pm - Wedding ceremony  
-3:00 - 4:30pm - Cutting of the cake followed by tea & cakes and photographs. *Feel to bring a reuseable coffee cup to help us reduce waste*
+3:00 - 4:30pm - Cutting of the cake followed by tea & cakes and photographs.  
+   *Feel free to bring a reuseable coffee cup to help us reduce waste*  
 5:00 - 7:00pm - BBQ for guests with an all day invite  
-7:00 - 7:30pm - Reception starts with ice cream bar and light buffet
-7:30 - 10:00pm - Dancing
-10pm - Bride & Groom leave  
+7:00 - 7:30pm - Reception starts with ice cream bar and light buffet  
+7:30 - 10:00pm - Dancing  
+10:00pm - Bride & Groom leave  
 
 We would like you to know that there will not be an opportunity to throw confetti, so please don't bring any. 
 
