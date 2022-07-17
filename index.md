@@ -42,19 +42,15 @@ We have put this together ourselves using Google Sheets. Instructions can be fou
 
 1:15 - 1:45pm - Arrival of guests  
 1:45 - 2:45pm - Wedding ceremony  
-2:50 - 4:00pm - Cutting of the cake followed by tea & cakes and photographs.  
-5:00 - 7:00pm - Dinner for guest with an all day invite  
-7:00 - 10:00pm - Dancing, Reception and light buffet  
+3:00 - 4:30pm - Cutting of the cake followed by tea & cakes and photographs. *Feel to bring a reuseable coffee cup to help us reduce waste*
+5:00 - 7:00pm - BBQ for guests with an all day invite  
+7:00 - 7:30pm - Reception starts with ice cream bar and light buffet
+7:30 - 10:00pm - Dancing
 10pm - Bride & Groom leave  
+
+We would like you to know that there will not be an opportunity to throw confetti, so please don't bring any. 
 
 We’re so grateful for your understanding and are sorry that we can’t invite all of you to stay for dinner, but we are happy to help with recommendations for great places to eat in Winchester, just get in touch to find out more!
 
 A variety of drinks will be available at the reception, but with limited alcohol - so once it’s gone, it’s gone! You are more than welcome to bring your own.
 
-### RSVP
-
-Let us know if you can join us by completing the [RSVP form](https://forms.gle/rfBhsu5ASifqZfRj7) by 1st June.
-
-<!-- #### Hotels
-
-Premier Inn, Travel lodge etc -->
